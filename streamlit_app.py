@@ -1,9 +1,6 @@
 # Originaly forked from the streamlit example app
 
-from collections import namedtuple
 import time
-import altair as alt
-import math
 import pandas as pd
 import numpy as np
 import streamlit as st
